@@ -1,0 +1,36 @@
+1. Fjerne spaghetti på et slot
+Idé: Kongens tronsal flyder over med levende spaghetti - og han er ikke glad for det. Spaghettien fjernes ved at brugeren klikker på den. Spaghetti genopstår, og i takt med at brugerens point stiger, går det hurtigere og hurtigere. ved 10 x spaghetti taber man.
+
+2. Tælle mælk i Lilleputte-land
+Idé: Der vises et random antal mælkeflasker/kartoner etc. i Lilleputte-land - disse vises i 3 sekunder, hvorefter brugeren skal gætte det korrekte antal. Antal stiger i takt med korrekte svar.
+
+3. At skjule et glas hos din svigermor
+Idé: Svigermor hader syltede agurker - du har medbragt et glas med netop disse, og brugeren skal nu sørge for at hun ikke opdager det. Glasset gemmes ved at trykke på det, og det vises sammen med flere andre (lignende) genstande. Der er en timer på, så det gælder om at spotte det hurtigt - for svigermor slår dig ned med en kost, hvis hun opdager glasset.
+
+4. At lede farvekridt på Trumps forpande
+Du er leder af farvekridtene - de mangler noget at male. Heldigvis er Trumps forpande yderst brugbart som lærred, og du skal nu nå at føre så mange forskellige farvekridt over panden som du kan, før timeren løber ud.
+
+
+
+
+
+5. At skyde solen fra Mars
+Solen vokser konstant og eksplosivt, og hele solsystemet er truet af udryddelse. Du sidder på Mars med din anti-varmekanon, som du konstant skal skyde solen med. Dette får ikke solen til at blive mindre, men begrænser dens voksehastighed.
+Marsmænd med selvmordsønsker forsøger at stoppe dig - når de popper frem på skærmen, kan du ikke bruge kanonen - de skal klikkes væk, før beskydningen kan genoptages. Marsmændende flyver i tilfældige baner over hele skærmen.
+
+Venligtsindede aliens (med visse lighedstræk med marsmændende) kan ligeledes poppe frem på skærmen - disse vil automatisk forsvinde fra skærmen efter 5 sekunder. Klikkes disse væk af brugeren, tabes spillet, idet man kun har 1 liv/energi.
+
+Hver destrueret marsmand tæller for 1 point.
+
+Solen indstilles til at nå Mars efter sammenlagt 40 sekunder uden beskydning. Marsmænd opstår hvert 5. sekund - der spawner 1 ekstra marsmand, for hver gang man har klikket dem alle væk.
+
+Spillet slutter efter 5 minutters spil (level complete), eller når solen er vokset så stor, at Mars bliver opslugt (game over).
+
+
+
+
+
+
+
+
+6. Undgå knive og gafler i et toilet

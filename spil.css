@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+}
+
+#menu_background {
+    background-image: url(produktion/forside.svg);
+    display: none;
+}
+
+#game {
+    background-image: url(produktion/baggrund_complete.svg);
+    background-size: cover;
+    width: 100vw;
+    height: 56.25vw;
+    z-index: -3;
+    position: relative;
+    overflow: hidden;
+}
+
+#cannons {
+    background-image: url(produktion/cannons.svg);
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    position: absolute;
+    top: 6.5vw;
+}
+
+#marsmand {
+    background-image: url(produktion/marsmand.svg);
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    position: absolute;
+    top: 15vw;
+    left: -15vw
+}
+
+#alien {
+    background-image: url(produktion/alien.svg);
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    position: absolute;
+    top: -10vw;
+    left: 15vw;
+}
+
+#sol {
+    background-image: url(produktion/sol_stor.svg);
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    position: absolute;
+    left: 65vw;
+    background-repeat: no-repeat;
+}
+
+#time {
+    background-image: url(produktion/time.svg);
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    position: absolute;
+    top: -24.965vw;
+    left: -15vw;
+}
+
+#energy {
+    background-image: url(produktion/lives.svg);
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    position: absolute;
+    top: -23.68vw;
+}
+
+#points {
+    background-image: url(produktion/score.svg);
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    position: absolute;
+    top: -32.635vw;
+    left: 4vw;
+}
+
+
+#start {
+    background-image: url(produktion/play_game_knap.svg);
+    display: none;
+}
+
+#settings {
+    background-image: url(produktion/settings_knap.svg);
+    display: none;
+}
+
+#gameover {
+    background-image: url(produktion/game_over.svg);
+    display: none;
+}
+
+#levelcomplete {
+    background-image: url(produktion/level_complete.svg);
+    display: none;
+}
